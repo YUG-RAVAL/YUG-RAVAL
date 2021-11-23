@@ -5,7 +5,7 @@
 - 📫 How to reach me : yugsraval@gmail.com
 - Linkedin : https://www.linkedin.com/in/yug-raval-6111a9171/
 - HackerRank : https://www.hackerrank.com/yugsraval
-- Do Checkout my Repo <a>Certificates</a>
+- Do Checkout my Repo <a https://github.com/YUG-RAVAL/Certificates>Certificates</a>
 
 <!---
 YUG-RAVAL/YUG-RAVAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

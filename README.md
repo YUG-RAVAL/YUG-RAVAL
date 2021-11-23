@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @YUG-RAVAL
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on any platform

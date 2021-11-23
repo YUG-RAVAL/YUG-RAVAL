@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning & Growing Everyday
 - 💞️ I’m looking to collaborate on any platform
-- 💖 💖 **PYTHON** is Love 💖 💖
+- 💖 💖 **PYTHON IS LOVE** 💖 💖
 - 📫 How to reach me : yugsraval@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/yug-raval-6111a9171/">Linkedin</a>
 - HackerRank : <a href="https://www.hackerrank.com/yugsraval">HackerRank</a>

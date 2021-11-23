@@ -10,6 +10,9 @@
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YUG-RAVAL&show_icons=true&theme=gotham" alt="YUG-RAVAL" />
+  
+  
+![Views](https://komarev.com/ghpvc/?username=YUG-RAVAL)
 
 <!---
 YUG-RAVAL/YUG-RAVAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

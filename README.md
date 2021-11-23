@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on any platform
 - 📫 How to reach me : yugsraval@gmail.com
 - Linkedin : https://www.linkedin.com/in/yug-raval-6111a9171/
-- HackerRank : https://www.hackerrank.com/yugsraval
-- Do Checkout my Repo <a https://github.com/YUG-RAVAL/Certificates>Certificates</a>
+- HackerRank : <a href="https://www.hackerrank.com/yugsraval"><button type="button">HackerRank</button></a>
+- Do Checkout my Repo <a href="https://github.com/YUG-RAVAL/Certificates">Certificates</a>
 
 <!---
 YUG-RAVAL/YUG-RAVAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

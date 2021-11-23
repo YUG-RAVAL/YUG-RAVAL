@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on any platform
 - 📫 How to reach me : yugsraval@gmail.com
-- Linkedin: https://www.linkedin.com/in/yug-raval-6111a9171/
+- Linkedin : https://www.linkedin.com/in/yug-raval-6111a9171/
+- HackerRank : https://www.hackerrank.com/yugsraval
 
 <!---
 YUG-RAVAL/YUG-RAVAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

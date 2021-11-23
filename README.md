@@ -8,6 +8,9 @@
 - HackerRank : <a href="https://www.hackerrank.com/yugsraval">HackerRank</a>
 - Do Checkout my Repo <a href="https://github.com/YUG-RAVAL/Certificates">Certificates</a>
 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YUG-RAVAL&show_icons=true&theme=gotham" alt="YUG-RAVAL" />
+
 <!---
 YUG-RAVAL/YUG-RAVAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

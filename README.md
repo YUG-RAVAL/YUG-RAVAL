@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on any platform
 - 📫 How to reach me : yugsraval@gmail.com
-- Linkedin : https://www.linkedin.com/in/yug-raval-6111a9171/
-- HackerRank : <a href="https://www.hackerrank.com/yugsraval"><button type="button">HackerRank</button></a>
+- Linkedin :<a href="https://www.linkedin.com/in/yug-raval-6111a9171/">Linkedin</a>
+- HackerRank : <a href="https://www.hackerrank.com/yugsraval">HackerRank</a>
 - Do Checkout my Repo <a href="https://github.com/YUG-RAVAL/Certificates">Certificates</a>
 
 <!---

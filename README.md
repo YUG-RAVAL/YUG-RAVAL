@@ -17,7 +17,7 @@
   
 ![Views](https://komarev.com/ghpvc/?username=YUG-RAVAL)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansalkanav)](https://github.com/bansalkanav?tab=repositories)
+
 
 <!---
 YUG-RAVAL/YUG-RAVAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

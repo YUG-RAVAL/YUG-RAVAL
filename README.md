@@ -13,6 +13,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YUG-RAVAL&show_icons=true&theme=gotham" alt="YUG-RAVAL" />
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Do+Checkout+my+Repos+You+Will+find+Something+Interesting😜+......) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansalkanav)](https://github.com/YUG-RAVAL?tab=repositories)
   
   
 ![Views](https://komarev.com/ghpvc/?username=YUG-RAVAL)

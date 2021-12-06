@@ -15,6 +15,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Do+Checkout+my+Repos+You+Will+find+Something+Interesting😜+......) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUG-RAVAL)](https://github.com/YUG-RAVAL?tab=repositories)
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/yug-raval-6111a9171/"><img src="https://img.shields.io/badge/-Kshitiz%20Saini-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yugsraval@gmail.com"><img src="https://img.shields.io/badge/-kshitizsaini.rtk@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/yugsraval"><img src="https://img.shields.io/badge/-@kshitizsaini113-333333?style=flat-square&logo=hackerrank"/></a>
+<a href="https://www.instagram.com/yug._.8/"><img src="https://img.shields.io/badge/-@kshitizsaini113-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+</p>
   
   
 ![Views](https://komarev.com/ghpvc/?username=YUG-RAVAL)

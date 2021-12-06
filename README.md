@@ -20,10 +20,10 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yug-raval-6111a9171/"><img src="https://img.shields.io/badge/-Kshitiz%20Saini-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yugsraval@gmail.com"><img src="https://img.shields.io/badge/-kshitizsaini.rtk@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/yugsraval"><img src="https://img.shields.io/badge/-@kshitizsaini113-333333?style=flat-square&logo=hackerrank"/></a>
-<a href="https://www.instagram.com/yug._.8/"><img src="https://img.shields.io/badge/-@kshitizsaini113-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yug-raval-6111a9171/"><img src="https://img.shields.io/badge/-Yug%20Raval-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yugsraval@gmail.com"><img src="https://img.shields.io/badge/-yugsraval@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/yugsraval"><img src="https://img.shields.io/badge/-@yugraval-333333?style=flat-square&logo=hackerrank"/></a>
+<a href="https://www.instagram.com/yug._.8/"><img src="https://img.shields.io/badge/-@yug-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </p>
   

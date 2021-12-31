@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **Data Science**
 - 🌱 I’m currently learning & Growing Everyday
-- 💞️ I’m looking to collaborate on any platform
+- 💞️ I’m looking to collaborate on **IoT** and **DataScience** platform
 - 💖 💖 **PYTHON IS LOVE** 💖 💖
 - Check out Cool Projects and do **contribute** to it
 - **Suggestions and improvements are always Welcome**

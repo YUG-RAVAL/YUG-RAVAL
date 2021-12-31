@@ -5,9 +5,7 @@
 - 💞️ I’m looking to collaborate on any platform
 - 💖 💖 **PYTHON IS LOVE** 💖 💖
 - Check out Cool Projects and do **contribute** to it
-- 📫 How to reach me : yugsraval@gmail.com
-- Linkedin : <a href="https://www.linkedin.com/in/yug-raval-6111a9171/">Linkedin</a>
-- HackerRank : <a href="https://www.hackerrank.com/yugsraval">HackerRank</a>
+- **Suggestions and improvements are always Welcome**
 - Do Checkout my Repo <a href="https://github.com/YUG-RAVAL/Certificates">Certificates</a>
 
 
@@ -16,7 +14,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Do+Checkout+my+Repos+You+Will+find+Something+Interesting😜+......) 
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me 📫
 
 <p align="center">
 
